@@ -1,0 +1,8 @@
+1 Hardik jk 9915455831 18/10/2003 S ludhiana 141008 abc 1900 2212
+2 madhav raju 9815456432 12/04/2000 C chd 2020 plkh 6100 1810 
+3 pulkit MR.anand 9530015509 18/12/2003 S ganganagar 335001 pulkitiscoding@gmail.com 200000 hardik 
+4 RAM CG 8080 18/10/2003 C LDH 141008 GFTFT 16000 123456 
+5 RAM SHAM 999999999 18/10/2000 C CHD 141008 abc@gmail.com 1600 123456 
+6 raju ramesh 9815456432 05/04/1974 S Ludhiana 141008 jkchopra@gmail.com 49700 2212 
+7 hardik chopra jk 9915455831 18102003 S ludhiana 141008 hardikchopra70@gmail.com 5000 2212 
+8 vibhansh alok 9999999 18/10/2003 S patna 141008 hdhhdhdhd 1600000 2212 
